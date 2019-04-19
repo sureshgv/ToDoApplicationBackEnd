@@ -7,18 +7,12 @@ http://localhost:8080/ToDoApplicationBackEnd/getToDoItems
 
 Give the response:
 ------------------
-{code}
 {
 "todoItems": [
 "First item for description",
-"The description",
-"The description",
-"The description",
-"The description",
-"The description",
-"The description",
-"The description",
-"The description"
+"The description1",
+"The description2",
+"The description2",
 ]
 }
-{code}
+
