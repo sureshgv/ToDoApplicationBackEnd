@@ -1,12 +1,12 @@
 Simple java web app that fetches todo items from a SQLite Data Base. 
-The http response returned like a list of items in a Json format.
+The http response returns a list of items in a Json format.
 
 Query as follows:
 -----------------
-Once deploy to Apache Tomcat server.
+Once deployed to Apache Tomcat server. You can access using the following query.
 http://localhost:8080/ToDoApplicationBackEnd/getToDoItems
 
-Give the response:
+Gives the response:
 ------------------
 {
 "todoItems": [
